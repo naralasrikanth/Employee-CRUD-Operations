@@ -1,0 +1,27 @@
+<!-- <class="d-flex justify-content-center mt-5"> -->
+<div class="create">
+    <form [formGroup]="EmpForm" (ngSubmit)="onSubmit()">
+        <div class="text-center mb-4">
+            <h1 class="mb-3">
+                Employee
+            </h1>
+        </div>
+        <div class="form-floating mb-3">
+            <label for="id">ID</label>
+            <input type="id" formControlName="id" class="form-control" id="id" placeholder=" ID">
+            
+        </div>
+        <div class="form-floating">
+            <label for="floatingPassword">employee_info</label>
+            <input type="employee_info" formControlName="employee_info" class="form-control" id="employee_info"
+                placeholder="employee_info">
+           
+        </div>
+
+        <div class="d-grid">
+            <button class="btn btn-lg btn-primary mt-3" type="submit">
+                Submit
+            </button>
+        </div>
+    </form>
+</div>

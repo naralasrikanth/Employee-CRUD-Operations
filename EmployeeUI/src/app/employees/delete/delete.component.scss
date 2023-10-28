@@ -1,0 +1,53 @@
+/* Apply a global font and background color */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Style the Delete container */
+.Delete {
+  max-width: 400px;
+  background-color: #fff;
+  padding: 20px;
+  margin-left: 35%;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the form labels */
+.form-label {
+  font-weight: bold;
+  color: #333;
+}
+
+/* Style the form input field */
+.form-control {
+  width: 60%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Style the submit button */
+.btn {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+/* Center the submit button */
+.d-btn {
+  text-align: center;
+}

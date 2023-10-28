@@ -1,0 +1,55 @@
+/* Add some padding and center the table */
+table {
+  margin: 0 auto;
+}
+
+/* Style the table header */
+th {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px;
+  text-align: left;
+}
+
+/* Style the "Action" column */
+td h5 {
+  display: flex;
+  align-items: center;
+}
+
+/* Style the delete and update links */
+a {
+  color: #3498db;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: #217dbb;
+}
+
+/* Style Font Awesome icons */
+i.fa {
+  margin-right: 5px;
+}
+
+/* Style the "Add Employee" button */
+.btn-primary {
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #217dbb;
+}
+
+/* Center the "Add Employee" button */
+.col-0 {
+  text-align: center;
+}
+
+/* Provide some spacing between the "Add Employee" button and the router outlet */
+.col-0 h5 {
+  margin-bottom: 10px;
+}

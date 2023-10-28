@@ -1,0 +1,32 @@
+
+<div>
+    <table class="table ">
+    <thead>
+        <tr>
+        <th>Id</th>
+        <th>employee_info</th>
+        <th>Action</th>
+        </tr>
+    </thead>
+    <tbody *ngFor="let emp of employee">
+        <tr>
+            <td>{{emp.id}}</td>
+            <td>{{stringifyEmployeeInfo(emp.employee_info)}}</td>
+            
+             <td>
+                <h5 class="linkDelete">
+                    <a routerLink="/delete/{{emp.id}}" class="text-dark text-decoration-none">
+                        <span class="fa fa-trash"></span> 
+                    </a>
+                </h5>
+             
+                <h5 class="linkUpdate">
+                    <a routerLink="/update/{{emp.id}}" class="text-dark text-decoration-none">
+                <span class="fa fa-edit"></span>
+                        
+                    </a>
+                </h5>
+            </td> 
+        </tr>
+    </table>
+    </div> 

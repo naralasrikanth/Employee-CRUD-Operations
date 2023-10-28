@@ -1,0 +1,124 @@
+ /* Add your CSS/SCSS here to style the HTML structure 
+.d-flex {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+  }
+  
+  .col-3 {
+    width: 30%;  Adjust the width as needed 
+    margin: auto;  Center the form within the container 
+  }
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+  .text-center {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  .form-control {
+    width: 100%;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .form-floating {
+    position: relative;
+    margin-bottom: 1.5rem;
+  }
+  .form-floating input {
+    padding: 1rem;
+  }
+  .form-floating label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 1rem;
+    pointer-events: none;
+    transition: transform 0.2s, opacity 0.2s;
+    transform: translate(0, 0);
+    opacity: 1;
+  }
+  .form-floating input:focus + label,
+   .form-floating input:not(:placeholder-shown) + label {
+     transform: translate(0, -1rem);
+    opacity: 0.6;
+  }
+  .d-grid {
+    display: grid;
+    justify-content: center;
+  }
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }*/
+  /* Reset some default styles to ensure consistent rendering across browsers */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Apply a global font and background color */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+/* Center the form and set a maximum width */
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the header */
+h1 {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+label {
+  font-weight: bold;
+}
+
+/* Style the form input fields */
+.form-floating input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Style the form labels */
+.form-floating label {
+  color: #333;
+}
+
+/* Style the submit button */
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+/* Center the submit button */
+.d-grid {
+  text-align: center;
+}

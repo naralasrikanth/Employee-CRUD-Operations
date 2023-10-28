@@ -1,0 +1,86 @@
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\appsettings.json
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Employees.exe
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Employees.deps.json
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Employees.runtimeconfig.json
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Employees.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Employees.pdb
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Humanizer.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Npgsql.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\git\Employees\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\Employees.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\Employees.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\Employees.AssemblyInfo.cs
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\Employees.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\Employees.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\Employees.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\staticwebassets\msbuild.Employees.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\staticwebassets\msbuild.build.Employees.props
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employees.props
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employees.props
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\scopedcss\bundle\Employees.styles.css
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\Employees.csproj.CopyComplete
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\Employees.dll
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\refint\Employees.dll
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\Employees.pdb
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\Employees.genruntimeconfig.cache
+C:\Users\hp\Desktop\git\Employees\obj\Debug\net7.0\ref\Employees.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\appsettings.json
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Employees.exe
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Employees.deps.json
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Employees.runtimeconfig.json
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Employees.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Employees.pdb
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Humanizer.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Npgsql.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\Employees.csproj.AssemblyReference.cache
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\Employees.AssemblyInfoInputs.cache
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\Employees.AssemblyInfo.cs
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\Employees.csproj.CoreCompileInputs.cache
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\Employees.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\Employees.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\staticwebassets\msbuild.Employees.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\staticwebassets\msbuild.build.Employees.props
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employees.props
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employees.props
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\scopedcss\bundle\Employees.styles.css
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\Employees.csproj.CopyComplete
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\Employees.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\refint\Employees.dll
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\Employees.pdb
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\Employees.genruntimeconfig.cache
+C:\Users\karna\OneDrive\Desktop\vscode\Employee CRUD Operations\Employees\Employees\obj\Debug\net7.0\ref\Employees.dll

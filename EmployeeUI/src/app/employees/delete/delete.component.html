@@ -1,0 +1,16 @@
+<div class="Delete">
+
+    <div *ngIf="employee">
+        <form>
+            <h3>Deleting a Employee </h3>
+            <div class="mb-3">
+                <label for="id" class="form-label">ID</label>
+                <input type="text" id="id" class="form-control" placeholder=" employee.id ">
+            </div>
+        </form>
+        <div class="d-btn">
+            <button class="btn" type="submit" (click)="onSubmit()">
+                Submit
+            </button>
+        </div>
+    </div>
