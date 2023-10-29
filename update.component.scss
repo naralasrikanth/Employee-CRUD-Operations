@@ -1,0 +1,57 @@
+/* Style for your Angular form */
+.d-flex {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+  }
+  
+  .col-3 {
+    width: 25%; /* Adjust the width as needed */
+    margin: 0 auto;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+  }
+  
+  .form-floating {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-floating input {
+    width: 100%;
+    padding: 0.375rem;
+  }
+  
+  .form-floating label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    padding: 0.375rem;
+    transition: top 0.3s ease, left 0.3s ease;
+  }
+  
+  .form-floating input:focus + label,
+  .form-floating input:valid + label {
+    top: -1.25rem;
+    left: 0.25rem;
+    font-size: 0.9rem;
+    background: white;
+    padding: 0 0.25rem;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  /* Adjust button styles as needed */
+  
+  /* Optional: Add more styles as needed */
+  
